@@ -15,3 +15,4 @@ Input text file is given as the first command line argument. e.g. `java JHUgle i
 - LPHashMapTest.java - JUnit test suite for LPHashMap
 - LPMapEntry.java - concrete class for map entry (key, value) pairs
 - MapJHU.java - map interface similar to Java Map
+- input.txt - sample input
